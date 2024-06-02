@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (max-width: 768px) {
+  .horizontal-tabs {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  .horizontal-tabs li {
+    display: inline-block;
+    margin-right: 1rem;
+    white-space: nowrap;
+  }
+}
+.scroll-container::-webkit-scrollbar {
+  display: none;
+}
+
+.scroll-container {
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+  scrollbar-width: none;  /* Firefox */
+}
