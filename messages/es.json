@@ -1,0 +1,183 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "about": "Sobre Mí",
+    "resume": "Currículum",
+    "testimonial": "Testimonios",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Edgar Pérez-Figueroa",
+    "subtitle": "Desarrollador Fullstack",
+    "description": "10 años construyendo aplicaciones web y móviles de alto rendimiento. Especializado en React, Next.js y React Native con pasión por la arquitectura escalable y el desarrollo asistido por IA.",
+    "hire": "Contrátame",
+    "resume": "Obtener CV"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "subtitle": "¿Por qué elegirme?",
+    "description": "Desarrollador Fullstack Senior con 10 años de experiencia en desarrollo de aplicaciones web y móviles, participando en proyectos globales y nacionales en sectores de tecnología, consultoría, transporte y productos digitales. Especializado en React.js, React Native, Next.js, TypeScript, Node.js, integraciones de API y soluciones en la nube. Sólido historial liderando equipos de desarrollo, mentorizando ingenieros y aplicando metodologías Ágiles. Experiencia implementando flujos de trabajo asistidos por IA incluyendo Spec-Driven Development, agentes de IA, integraciones MCP y optimización de prompts.",
+    "highlights": "Puntos Destacados:",
+    "highlight1": "10 años de experiencia como Ingeniero de Software",
+    "highlight2": "Desarrollo Fullstack Web y Móvil (React, Next.js, React Native)",
+    "highlight3": "Líder técnico y mentor de ingenieros",
+    "highlight4": "Flujos con IA: Kiro IDE, SDD, MCP, Agentes de IA",
+    "highlight5": "Soluciones en la nube: AWS, Firebase, Supabase",
+    "hire": "Contrátame",
+    "resume": "Obtener CV"
+  },
+  "resume": {
+    "title": "Currículum",
+    "education": "Educación",
+    "work": "Experiencia",
+    "skills": "Stack Técnico",
+    "projects": "Proyectos",
+    "interests": "Intereses",
+    "education1": {
+      "heading": "Universidad UTEL",
+      "subHeading": "Licenciatura en Ingeniería en Sistemas Computacionales",
+      "fromDate": "2022",
+      "toDate": "2024"
+    },
+    "education2": {
+      "heading": "UANL – Facultad de Ciencias Físico Matemáticas",
+      "subHeading": "Licenciatura en Multimedia y Animación Digital",
+      "fromDate": "2014",
+      "toDate": "2019"
+    },
+    "work1": {
+      "heading": "Softtek — Cliente: Aeroméxico",
+      "subHeading": "Desarrollador Móvil Senior",
+      "fromDate": "Oct 2025",
+      "toDate": "Jun 2026",
+      "description": "Desarrollando la nueva versión 2.0 de la aplicación móvil de Aeroméxico, enfocado en arquitectura escalable, rendimiento y mejoras en la experiencia de usuario. Colaborando con equipos multidisciplinarios.",
+      "tools": ["React Native", "TypeScript", "Reactotron", "Kiro IDE", "AI Agents", "MCP", "Agile/Scrum"],
+      "points": [
+        "Desarrollé funcionalidades móviles usando React Native, TypeScript y prácticas de arquitectura moderna.",
+        "Implementé procesos de depuración y optimización de rendimiento con Reactotron.",
+        "Apliqué flujos de desarrollo asistidos por IA usando Kiro IDE, Spec-Driven Development, steering, agentes de IA, MCPs y técnicas avanzadas de prompting.",
+        "Participé en iniciativas de mejora técnica mediante cursos de desarrollo con IA y aprendizaje continuo."
+      ]
+    },
+    "work2": {
+      "heading": "Arkusnexus — Cliente: Breakthrough Broker",
+      "subHeading": "Desarrollador Fullstack Senior",
+      "fromDate": "Mar 2023",
+      "toDate": "Oct 2025",
+      "description": "Arquitecté y desarrollé aplicaciones web escalables usando tecnologías frontend modernas, colaborando con equipos backend y diseñadores para entregar soluciones de alto rendimiento.",
+      "tools": ["React.js", "Next.js", "TypeScript", "Node.js", "API Integration", "Git", "Agile/Scrum"],
+      "points": [
+        "Desarrollé interfaces de usuario usando React.js y Next.js con enfoque en rendimiento y mantenibilidad.",
+        "Implementé estrategias de renderizado del lado del servidor y carga dinámica de contenido.",
+        "Integré APIs y colaboré en soluciones técnicas para requerimientos de negocio.",
+        "Mentorié a desarrolladores junior y apoyé las mejores prácticas de frontend."
+      ]
+    },
+    "work3": {
+      "heading": "Luxoft",
+      "subHeading": "Desarrollador Móvil Senior",
+      "fromDate": "Dic 2021",
+      "toDate": "Mar 2023",
+      "description": "Desarrollé aplicaciones móviles enfocadas en escalabilidad, confiabilidad y experiencia de usuario, colaborando con clientes internacionales y equipos técnicos.",
+      "tools": ["React Native", "TypeScript", "JavaScript", "REST APIs", "CI/CD", "Agile/Scrum", "Git"],
+      "points": [
+        "Construí aplicaciones móviles usando React Native y TypeScript.",
+        "Integré APIs REST e implementé estrategias de pruebas unitarias.",
+        "Participé en ceremonias Agile/Scrum y procesos CI/CD.",
+        "Apoyé el intercambio de conocimientos y capacité a desarrolladores junior en buenas prácticas de React Native."
+      ]
+    },
+    "work4": {
+      "heading": "EUV Brand",
+      "subHeading": "Desarrollador Fullstack & Tech Lead",
+      "fromDate": "Ene 2019",
+      "toDate": "Nov 2021",
+      "description": "Lideré el equipo de desarrollo y gestioné múltiples proyectos web, móviles e interactivos, asegurando calidad técnica, escalabilidad y entrega exitosa.",
+      "tools": ["React.js", "React Native", "Laravel", "PHP", "MySQL", "AWS", "Construct 3", "Agile/Scrum"],
+      "points": [
+        "Gestioné un equipo de 6 desarrolladores y diseñadores, brindando guía técnica y mentoría.",
+        "Diseñé y desarrollé aplicaciones usando React.js, React Native, Laravel, PHP y MySQL.",
+        "Migré aplicaciones a infraestructura AWS para mejorar escalabilidad y confiabilidad.",
+        "Coordiné proyectos de desarrollo de videojuegos usando Construct 3."
+      ]
+    },
+    "work5": {
+      "heading": "Greenapsis",
+      "subHeading": "Desarrollador Fullstack",
+      "fromDate": "Ene 2018",
+      "toDate": "Ene 2019",
+      "description": "Desarrollé aplicaciones web y móviles, servicios backend y soluciones digitales interactivas para diversos proyectos.",
+      "tools": ["React.js", "React Native", "Node.js", "Firebase", "TypeScript", "JavaScript", "Git"],
+      "points": [
+        "Desarrollé sitios web con React.js y aplicaciones móviles con React Native.",
+        "Gestioné servicios backend con Node.js y bases de datos Firebase.",
+        "Creé proyectos de medios interactivos y videojuegos.",
+        "Apoyé mejoras de aplicaciones e implementación técnica."
+      ]
+    },
+    "projectsList": [
+      {
+        "title": "App Aeroméxico v2.0",
+        "duration": { "fromDate": "2025", "toDate": "2026" },
+        "description": "Nueva aplicación móvil de Aeroméxico enfocada en arquitectura escalable, rendimiento y experiencia de usuario mejorada. Trabajo con equipos multidisciplinarios usando React Native y Kiro IDE.",
+        "subHeading": "React Native · TypeScript · Reactotron · Kiro IDE · Agentes IA"
+      },
+      {
+        "title": "Plataforma Breakthrough Broker",
+        "duration": { "fromDate": "2023", "toDate": "2025" },
+        "description": "Plataforma web de marketing escalable para profesionales inmobiliarios. Construida con Next.js, implementando SSR, integraciones de API y componentes de UI de alto rendimiento.",
+        "subHeading": "Next.js · React.js · TypeScript · Node.js · Integración API"
+      },
+      {
+        "title": "App Móvil para Agrónomos",
+        "duration": { "fromDate": "2021", "toDate": "2023" },
+        "description": "Aplicación móvil multiplataforma para profesionales de la agronomía. Integrada con servicios backend para contenido dinámico e implementación de pruebas unitarias rigurosas.",
+        "subHeading": "React Native · TypeScript · APIs REST · CI/CD · Git"
+      }
+    ],
+    "interest1": {
+      "title": "Enseñanza y Mentoría",
+      "text": "Disfruto genuinamente compartir conocimiento y mentorizar a desarrolladores junior. Creo que hacer crecer a otros es una de las contribuciones más impactantes que puede hacer un ingeniero senior."
+    },
+    "interest2": {
+      "title": "Música",
+      "text": "La música es una constante en mi flujo de trabajo. Desde playlists de concentración hasta descubrir nuevos géneros en Spotify, me mantiene en la zona creativa."
+    },
+    "interest3": {
+      "title": "Gaming Competitivo",
+      "text": "Disfruto probar mis reflejos y estrategia en juegos competitivos. La mentalidad de resolución de problemas que desarrolla el gaming se traduce directamente en cómo abordo los desafíos de ingeniería."
+    }
+  },
+  "testimonial": {
+    "title": "Testimonios",
+    "subtitle": "Lo que dicen mis clientes y colegas",
+    "testimonials": [
+      {
+        "name": "Cliente – Breakthrough Broker",
+        "role": "Plataforma de Tecnología Inmobiliaria",
+        "text": "Edgar entregó resultados sobresalientes en nuestra plataforma. Su experiencia en Next.js y atención al rendimiento marcó una diferencia real en la calidad del producto y la velocidad del equipo."
+      },
+      {
+        "name": "Colega – Arkusnexus",
+        "role": "Ingeniero Senior",
+        "text": "Trabajar con Edgar fue una gran experiencia. Lidera con el ejemplo, produce consistentemente código limpio y mantenible, y siempre está dispuesto a ayudar al equipo a crecer."
+      },
+      {
+        "name": "Tech Lead – Luxoft",
+        "role": "Líder de Desarrollo Móvil",
+        "text": "Edgar aportó sólidas habilidades en React Native y una actitud colaborativa a nuestro proyecto internacional. La calidad de su código y comunicación con clientes fue consistentemente excelente."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¿Tienes un proyecto en mente? Construyamos algo increíble.",
+    "name": "Nombre",
+    "email": "Correo",
+    "message": "Mensaje",
+    "submit": "Enviar Mensaje",
+    "success": "¡Mensaje enviado exitosamente! Te responderé pronto.",
+    "error": "Algo salió mal. Por favor intenta de nuevo o escríbeme directamente por correo."
+  }
+}

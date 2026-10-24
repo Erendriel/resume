@@ -1,0 +1,183 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About Me",
+    "resume": "Resume",
+    "testimonial": "Testimonial",
+    "contact": "Contact Me"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Edgar Pérez-Figueroa",
+    "subtitle": "Fullstack Developer",
+    "description": "10 years building high-performance web and mobile applications. Specialized in React, Next.js & React Native with a passion for scalable architecture and AI-assisted development.",
+    "hire": "Hire Me",
+    "resume": "Get Resume"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Why Choose Me?",
+    "description": "Senior Fullstack Developer with 10 years of experience in web and mobile application development, participating in global and national projects across technology, consulting, transportation, and digital products sectors. Specialized in React.js, React Native, Next.js, TypeScript, Node.js, API integrations, and cloud-based solutions. Strong background leading development teams, mentoring engineers, and applying Agile methodologies. Experience implementing AI-assisted development workflows including Spec-Driven Development, AI agents, MCP integrations, and prompt optimization.",
+    "highlights": "Here are a Few Highlights:",
+    "highlight1": "10 years of Software Engineering experience",
+    "highlight2": "Fullstack Web & Mobile Development (React, Next.js, React Native)",
+    "highlight3": "Team lead & mentor for engineers",
+    "highlight4": "AI-assisted workflows: Kiro IDE, SDD, MCP, AI Agents",
+    "highlight5": "Cloud solutions: AWS, Firebase, Supabase",
+    "hire": "Hire Me",
+    "resume": "Get Resume"
+  },
+  "resume": {
+    "title": "Resume",
+    "education": "Education",
+    "work": "Work History",
+    "skills": "Tech Stack",
+    "projects": "Projects",
+    "interests": "Interests",
+    "education1": {
+      "heading": "UTEL University",
+      "subHeading": "Bachelor of Computer Systems Engineering",
+      "fromDate": "2022",
+      "toDate": "2024"
+    },
+    "education2": {
+      "heading": "UANL – Faculty of Physical and Mathematical Sciences",
+      "subHeading": "Bachelor of Multimedia and Digital Animation",
+      "fromDate": "2014",
+      "toDate": "2019"
+    },
+    "work1": {
+      "heading": "Softtek — Client: Aeroméxico",
+      "subHeading": "Senior Mobile Developer",
+      "fromDate": "Oct 2025",
+      "toDate": "Jun 2026",
+      "description": "Developing Aeroméxico's new mobile application v2.0, focusing on scalable architecture, performance, and user experience improvements. Collaborating with multidisciplinary teams using modern development practices.",
+      "tools": ["React Native", "TypeScript", "Reactotron", "Kiro IDE", "AI Agents", "MCP", "Agile/Scrum"],
+      "points": [
+        "Developed mobile features using React Native, TypeScript, and modern architecture practices.",
+        "Implemented debugging and performance optimization processes using Reactotron.",
+        "Applied AI-assisted development workflows using Kiro IDE, Spec-Driven Development, steering, AI agents, MCPs, and advanced prompting techniques.",
+        "Participated in technical improvement initiatives through AI development courses and continuous learning."
+      ]
+    },
+    "work2": {
+      "heading": "Arkusnexus — Client: Breakthrough Broker",
+      "subHeading": "Senior Fullstack Developer",
+      "fromDate": "Mar 2023",
+      "toDate": "Oct 2025",
+      "description": "Architected and developed scalable web applications using modern frontend technologies, collaborating with backend teams and designers to deliver high-performance solutions.",
+      "tools": ["React.js", "Next.js", "TypeScript", "Node.js", "API Integration", "Git", "Agile/Scrum"],
+      "points": [
+        "Developed user interfaces using React.js and Next.js with focus on performance and maintainability.",
+        "Implemented server-side rendering and dynamic content loading strategies.",
+        "Integrated APIs and collaborated on technical solutions for business requirements.",
+        "Mentored junior developers and supported frontend best practices."
+      ]
+    },
+    "work3": {
+      "heading": "Luxoft",
+      "subHeading": "Senior Mobile Developer",
+      "fromDate": "Dec 2021",
+      "toDate": "Mar 2023",
+      "description": "Developed mobile applications focused on scalability, reliability, and user experience while collaborating with international clients and technical teams.",
+      "tools": ["React Native", "TypeScript", "JavaScript", "REST APIs", "CI/CD", "Agile/Scrum", "Git"],
+      "points": [
+        "Built mobile applications using React Native and TypeScript.",
+        "Integrated REST APIs and implemented unit testing strategies.",
+        "Participated in Agile/Scrum ceremonies and CI/CD processes.",
+        "Supported knowledge sharing and trained junior developers in React Native best practices."
+      ]
+    },
+    "work4": {
+      "heading": "EUV Brand",
+      "subHeading": "Fullstack Developer & Tech Lead",
+      "fromDate": "Jan 2019",
+      "toDate": "Nov 2021",
+      "description": "Led the development team and managed multiple web, mobile, and interactive projects, ensuring technical quality, scalability, and successful delivery.",
+      "tools": ["React.js", "React Native", "Laravel", "PHP", "MySQL", "AWS", "Construct 3", "Agile/Scrum"],
+      "points": [
+        "Managed a development team of 6 developers and designers, providing technical guidance and mentoring.",
+        "Designed and developed applications using React.js, React Native, Laravel, PHP, and MySQL.",
+        "Migrated applications to AWS cloud infrastructure to improve scalability and reliability.",
+        "Coordinated videogame development projects using Construct 3."
+      ]
+    },
+    "work5": {
+      "heading": "Greenapsis",
+      "subHeading": "Fullstack Developer",
+      "fromDate": "Jan 2018",
+      "toDate": "Jan 2019",
+      "description": "Developed web and mobile applications, backend services, and interactive digital solutions for various projects.",
+      "tools": ["React.js", "React Native", "Node.js", "Firebase", "TypeScript", "JavaScript", "Git"],
+      "points": [
+        "Developed React.js websites and React Native mobile applications.",
+        "Managed Node.js backend services and Firebase databases.",
+        "Created interactive media and videogame projects.",
+        "Supported application improvements and technical implementation."
+      ]
+    },
+    "projectsList": [
+      {
+        "title": "Aeroméxico App v2.0",
+        "duration": { "fromDate": "2025", "toDate": "2026" },
+        "description": "Aeroméxico's new mobile application focused on scalable architecture, performance, and improved user experience. Worked with multidisciplinary teams using React Native and Kiro IDE.",
+        "subHeading": "React Native · TypeScript · Reactotron · Kiro IDE · AI Agents"
+      },
+      {
+        "title": "Breakthrough Broker Platform",
+        "duration": { "fromDate": "2023", "toDate": "2025" },
+        "description": "Scalable marketing web platform for real estate professionals. Built with Next.js, implementing SSR, API integrations, and high-performance UI components.",
+        "subHeading": "Next.js · React.js · TypeScript · Node.js · API Integration"
+      },
+      {
+        "title": "Agronomist Mobile App",
+        "duration": { "fromDate": "2021", "toDate": "2023" },
+        "description": "Cross-platform mobile application for agronomy professionals. Integrated with backend services for dynamic content and implemented rigorous unit testing for API reliability.",
+        "subHeading": "React Native · TypeScript · REST APIs · CI/CD · Git"
+      }
+    ],
+    "interest1": {
+      "title": "Teaching & Mentoring",
+      "text": "I genuinely enjoy sharing knowledge and mentoring junior developers. I believe growing others is one of the most impactful contributions a senior engineer can make."
+    },
+    "interest2": {
+      "title": "Music",
+      "text": "Listening to music is a constant in my workflow. From focus playlists to discovering new genres on Spotify, it keeps me in the zone and creative."
+    },
+    "interest3": {
+      "title": "Competitive Gaming",
+      "text": "I enjoy testing my reflexes and strategy in competitive games. The problem-solving mindset gaming builds translates directly into how I approach engineering challenges."
+    }
+  },
+  "testimonial": {
+    "title": "Testimonials",
+    "subtitle": "What my clients & colleagues say",
+    "testimonials": [
+      {
+        "name": "Client – Breakthrough Broker",
+        "role": "Real Estate Tech Platform",
+        "text": "Edgar delivered outstanding results on our platform. His expertise in Next.js and attention to performance made a real difference in our product quality and team velocity."
+      },
+      {
+        "name": "Colleague – Arkusnexus",
+        "role": "Senior Engineer",
+        "text": "Working alongside Edgar was a great experience. He leads by example, consistently produces clean, maintainable code, and is always willing to help the team grow."
+      },
+      {
+        "name": "Team Lead – Luxoft",
+        "role": "Mobile Development Lead",
+        "text": "Edgar brought strong React Native skills and a collaborative attitude to our international project. His code quality and communication with clients were consistently excellent."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Have a project in mind? Let's build something great.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send Message",
+    "success": "Message sent successfully! I'll get back to you soon.",
+    "error": "Something went wrong. Please try again or reach out directly by email."
+  }
+}
